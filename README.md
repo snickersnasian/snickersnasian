@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @snickersnasian
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Everything
+
 
 <!---
 snickersnasian/snickersnasian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
